@@ -1,4 +1,4 @@
-# Plataforma de Gerenciamento de Tarefas Diárias
+# Plataforma de Gerenciamento de Tarefas Diárias da TecnoElite
 
 ## Descrição
 

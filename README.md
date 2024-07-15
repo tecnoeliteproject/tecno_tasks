@@ -1,7 +1,3 @@
-### LEIA-ME
-
----
-
 # Plataforma de Gerenciamento de Tarefas Diárias
 
 ## Descrição
@@ -72,7 +68,6 @@ Este projeto consiste em uma plataforma web para o gerenciamento de tarefas diá
 6. **Abra um Pull Request:**
    - Acesse o repositório original no GitHub e clique no botão "New Pull Request".
    - Selecione a branch que você criou com suas alterações e submeta o Pull Request para revisão.
-
 
 ## Instalação
 

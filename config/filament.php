@@ -85,5 +85,10 @@ return [
     */
 
     'livewire_loading_delay' => 'default',
+    'auth' => [
+    'guard' => 'web',
+    'middleware' => ['web', 'auth'],
+],
+
 
 ];

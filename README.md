@@ -129,3 +129,5 @@ Acesse a aplicação em `http://localhost:8000`.
 ---
 
 **Nota:** Este README pode ser ajustado conforme necessário.
+
+MINHA ALTERAÇÃO PARA FAZER O PRIMEIRO COMMIT
